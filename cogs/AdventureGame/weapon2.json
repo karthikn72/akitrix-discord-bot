@@ -1,0 +1,612 @@
+[
+  {
+    "Simple Weapons": "Gauntlet",
+    "Cost": "2 gp",
+    "Dmg (S)": "1d2",
+    "Dmg (M)": "1d3",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "1 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Unarmed strike",
+    "Cost": "0",
+    "Dmg (S)": "1d2",
+    "Dmg (M)": "1d3",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "?",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Dagger",
+    "Cost": "2 gp",
+    "Dmg (S)": "1d3",
+    "Dmg (M)": "1d4",
+    "Critical": "19-20/?2",
+    "Range Increment": "10 ft.",
+    "Weight1": "1 lb.",
+    "Type2": "Piercing or slashing"
+  },
+  {
+    "Simple Weapons": "Dagger, punching",
+    "Cost": "2 gp",
+    "Dmg (S)": "1d3",
+    "Dmg (M)": "1d4",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "1 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Gauntlet, spiked",
+    "Cost": "5 gp",
+    "Dmg (S)": "1d3",
+    "Dmg (M)": "1d4",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "1 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Mace, light",
+    "Cost": "5 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "4 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Sickle",
+    "Cost": "6 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "2 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Club",
+    "Cost": "?",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?2",
+    "Range Increment": "10 ft.",
+    "Weight1": "3 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Mace, heavy",
+    "Cost": "12 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "8 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Morningstar",
+    "Cost": "8 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "6 lb.",
+    "Type2": "Bludgeoning and piercing"
+  },
+  {
+    "Simple Weapons": "Shortspear",
+    "Cost": "1 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?2",
+    "Range Increment": "20 ft.",
+    "Weight1": "3 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Longspear",
+    "Cost": "5 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "9 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Quarterstaff",
+    "Cost": "?",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "4 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Spear",
+    "Cost": "2 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "?3",
+    "Range Increment": "20 ft.",
+    "Weight1": "6 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Dart",
+    "Cost": "5 sp",
+    "Dmg (S)": "1d3",
+    "Dmg (M)": "1d4",
+    "Critical": "?2",
+    "Range Increment": "20 ft.",
+    "Weight1": "? lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Javelin",
+    "Cost": "1 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?2",
+    "Range Increment": "30 ft.",
+    "Weight1": "2 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Axe, throwing",
+    "Cost": "8 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?2",
+    "Range Increment": "10 ft.",
+    "Weight1": "2 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Hammer, light",
+    "Cost": "1 gp",
+    "Dmg (S)": "1d3",
+    "Dmg (M)": "1d4",
+    "Critical": "?2",
+    "Range Increment": "20 ft.",
+    "Weight1": "2 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Handaxe",
+    "Cost": "6 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "3 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Kukri",
+    "Cost": "8 gp",
+    "Dmg (S)": "1d3",
+    "Dmg (M)": "1d4",
+    "Critical": "18-20/?2",
+    "Range Increment": "?",
+    "Weight1": "2 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Pick, light",
+    "Cost": "4 gp",
+    "Dmg (S)": "1d3",
+    "Dmg (M)": "1d4",
+    "Critical": "?4",
+    "Range Increment": "?",
+    "Weight1": "3 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Sap",
+    "Cost": "1 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "2 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Shield, light",
+    "Cost": "special",
+    "Dmg (S)": "1d2",
+    "Dmg (M)": "1d3",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "special",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Spiked armor",
+    "Cost": "special",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "special",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Spiked shield, light",
+    "Cost": "special",
+    "Dmg (S)": "1d3",
+    "Dmg (M)": "1d4",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "special",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Sword, short",
+    "Cost": "10 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "19-20/?2",
+    "Range Increment": "?",
+    "Weight1": "2 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Battleaxe",
+    "Cost": "10 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "6 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Flail",
+    "Cost": "8 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "5 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Longsword",
+    "Cost": "15 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "19-20/?2",
+    "Range Increment": "?",
+    "Weight1": "4 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Pick, heavy",
+    "Cost": "8 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?4",
+    "Range Increment": "?",
+    "Weight1": "6 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Rapier",
+    "Cost": "20 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "18-20/?2",
+    "Range Increment": "?",
+    "Weight1": "2 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Scimitar",
+    "Cost": "15 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "18-20/?2",
+    "Range Increment": "?",
+    "Weight1": "4 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Shield, heavy",
+    "Cost": "special",
+    "Dmg (S)": "1d3",
+    "Dmg (M)": "1d4",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "special",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Spiked shield, heavy",
+    "Cost": "special",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "special",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Trident",
+    "Cost": "15 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "?2",
+    "Range Increment": "10 ft.",
+    "Weight1": "4 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Warhammer",
+    "Cost": "12 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "5 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Falchion",
+    "Cost": "75 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "2d4",
+    "Critical": "18-20/?2",
+    "Range Increment": "?",
+    "Weight1": "8 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Glaive",
+    "Cost": "8 gp",
+    "Dmg (S)": "1d8",
+    "Dmg (M)": "1d10",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "10 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Greataxe",
+    "Cost": "20 gp",
+    "Dmg (S)": "1d10",
+    "Dmg (M)": "1d12",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "12 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Greatclub",
+    "Cost": "5 gp",
+    "Dmg (S)": "1d8",
+    "Dmg (M)": "1d10",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "8 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Flail, heavy",
+    "Cost": "15 gp",
+    "Dmg (S)": "1d8",
+    "Dmg (M)": "1d10",
+    "Critical": "19-20/?2",
+    "Range Increment": "?",
+    "Weight1": "10 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Greatsword",
+    "Cost": "50 gp",
+    "Dmg (S)": "1d10",
+    "Dmg (M)": "2d6",
+    "Critical": "19-20/?2",
+    "Range Increment": "?",
+    "Weight1": "8 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Guisarme",
+    "Cost": "9 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "2d4",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "12 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Halberd",
+    "Cost": "10 gp",
+    "Dmg (S)": "1d8",
+    "Dmg (M)": "1d10",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "12 lb.",
+    "Type2": "Piercing or slashing"
+  },
+  {
+    "Simple Weapons": "Lance",
+    "Cost": "10 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "10 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Ranseur",
+    "Cost": "10 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "2d4",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "12 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Scythe",
+    "Cost": "18 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "2d4",
+    "Critical": "?4",
+    "Range Increment": "?",
+    "Weight1": "10 lb.",
+    "Type2": "Piercing or slashing"
+  },
+  {
+    "Simple Weapons": "Kama",
+    "Cost": "2 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "2 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Nunchaku",
+    "Cost": "2 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "2 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Sai",
+    "Cost": "1 gp",
+    "Dmg (S)": "1d3",
+    "Dmg (M)": "1d4",
+    "Critical": "?2",
+    "Range Increment": "10 ft.",
+    "Weight1": "1 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Siangham",
+    "Cost": "3 gp",
+    "Dmg (S)": "1d4",
+    "Dmg (M)": "1d6",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "1 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Sword, bastard",
+    "Cost": "35 gp",
+    "Dmg (S)": "1d8",
+    "Dmg (M)": "1d10",
+    "Critical": "19-20/?2",
+    "Range Increment": "?",
+    "Weight1": "6 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Waraxe, dwarven",
+    "Cost": "30 gp",
+    "Dmg (S)": "1d8",
+    "Dmg (M)": "1d10",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "8 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Whip",
+    "Cost": "1 gp",
+    "Dmg (S)": "1d2",
+    "Dmg (M)": "1d3",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "2 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Axe, orc double",
+    "Cost": "60 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "15 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Chain, spiked",
+    "Cost": "25 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "2d4",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "10 lb.",
+    "Type2": "Piercing"
+  },
+  {
+    "Simple Weapons": "Flail, dire",
+    "Cost": "90 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "?2",
+    "Range Increment": "?",
+    "Weight1": "10 lb.",
+    "Type2": "Bludgeoning"
+  },
+  {
+    "Simple Weapons": "Hammer, gnome hooked",
+    "Cost": "20 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "?3/?4",
+    "Range Increment": "?",
+    "Weight1": "6 lb.",
+    "Type2": "Bludgeoning/Piercing"
+  },
+  {
+    "Simple Weapons": "Sword, two-bladed",
+    "Cost": "100 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "19-20/?2",
+    "Range Increment": "?",
+    "Weight1": "10 lb.",
+    "Type2": "Slashing"
+  },
+  {
+    "Simple Weapons": "Urgrosh, dwarven",
+    "Cost": "50 gp",
+    "Dmg (S)": "1d6",
+    "Dmg (M)": "1d8",
+    "Critical": "?3",
+    "Range Increment": "?",
+    "Weight1": "12 lb.",
+    "Type2": "Slashing or piercing"
+  },
+  {
+    "Simple Weapons": "Bolas",
+    "Cost": "5 gp",
+    "Dmg (S)": "1d3",
+    "Dmg (M)": "1d4",
+    "Critical": "?2",
+    "Range Increment": "10 ft.",
+    "Weight1": "2 lb.",
+    "Type2": "Bludgeoning"
+  }
+]
